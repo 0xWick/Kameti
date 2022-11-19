@@ -144,6 +144,12 @@ contract KametiContract is VRFConsumerBaseV2 {
     // ? Organizer has no control over the kameti
 
     // * Start Kameti
+    // @params
+    // array of addresses of members
+    // Related data Content Id from IPFS
+    // _monthlyPayment for Kameti 
+        //  1 _monthlyPayment => 0.0001 ether
+        // 10 _monthlyPayment => 0.001 ether
     function createKameti(
         address payable[] memory _kametiMembers,
         string memory _kametiDataCID,
