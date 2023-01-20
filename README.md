@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/69587947/211059202-c41efc0a-c42d-4d1a-b34b-06c1bdc3e52c.png)
 
-# Social Impact using Chainlink Services & Polygon ID
+# Social Impact using Chainlink Services & Polygon ID - ROSCA's
 
 ## Solidity code inside contracts
 
